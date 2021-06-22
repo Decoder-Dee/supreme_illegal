@@ -13,6 +13,8 @@ requirements
 - <a href="https://github.com/nerohiro/nh-context" 
    style="text-decoration: none">NH CONTEXT</a>
 
+- photo preview 
+- https://i.imgur.com/eEqMjVJ.png
 
 - video preview
 https://streamable.com/qmoxh6
