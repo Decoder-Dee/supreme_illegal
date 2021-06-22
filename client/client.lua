@@ -163,7 +163,7 @@ end)
         `ig_g`,
     }
 
-exports['np-target']:AddTargetModel(peds, {
+exports['bt-target']:AddTargetModel(peds, {
         options = {
        	{
         event = "supreme_illegal:OpenMenu",
